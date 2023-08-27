@@ -1,5 +1,7 @@
 ### オーディオサンプリングレート変換ツール ユーザーガイド
 
+- このツールは指定されたフォルダ内の音源ファイル（例: .wav, .flac, .mp3）を選択されたサンプリングレートに変換し、変換後のファイルを同じフォルダ内に「resampled_」というプレフィックスを付けて保存します。
+
 ---
 
 #### 1. 事前準備
@@ -54,7 +56,13 @@
 - 何らかのエラーメッセージが表示された場合は、そのエラーメッセージをメモして、サポートにお問い合わせください。
 
 
+
+
+
+
 ### Audio Sampling Rate Conversion Tool User Guide
+
+This tool converts audio files (e.g., .wav, .flac, .mp3) within a specified folder to the chosen sampling rate, and saves the converted files in the same folder with a "resampled_" prefix.
 
 ---
 
